@@ -4,3 +4,6 @@
 
 
 a test-bench case for the MiSTeryshield PiPico dual DB9
+
+
+![Nano-Test-Bench 02](https://github.com/user-attachments/assets/f4621619-5ee1-42ed-b6ba-405016a26049)
